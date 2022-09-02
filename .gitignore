@@ -1,0 +1,7 @@
+__pycache__/
+.coverage
+.coverage.*
+.cache
+MANIFEST
+.DS_Store
+.idea
